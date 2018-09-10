@@ -4,3 +4,9 @@ C:\Users\davi_\source\repos\aulaativa-api\Domain\obj\Debug\Domain.csprojAssembly
 C:\Users\davi_\source\repos\aulaativa-api\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 C:\Users\davi_\source\repos\aulaativa-api\Domain\obj\Debug\Domain.dll
 C:\Users\davi_\source\repos\aulaativa-api\Domain\obj\Debug\Domain.pdb
+C:\Users\davi_\Documents\TCC\App\aulaativa-api\Domain\bin\Debug\Domain.dll
+C:\Users\davi_\Documents\TCC\App\aulaativa-api\Domain\bin\Debug\Domain.pdb
+C:\Users\davi_\Documents\TCC\App\aulaativa-api\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\davi_\Documents\TCC\App\aulaativa-api\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\davi_\Documents\TCC\App\aulaativa-api\Domain\obj\Debug\Domain.dll
+C:\Users\davi_\Documents\TCC\App\aulaativa-api\Domain\obj\Debug\Domain.pdb

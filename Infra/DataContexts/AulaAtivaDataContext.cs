@@ -1,6 +1,7 @@
 ﻿using Domain;
 using Infra.Mappings;
 using System.Data.Entity;
+using System.Data.Entity.ModelConfiguration.Conventions;
 
 namespace Infra.DataContexts
 {
@@ -44,14 +45,24 @@ namespace Infra.DataContexts
             modelBuilder.Configurations.Add(new QuizMap());
             modelBuilder.Configurations.Add(new DoubtAnswerMap());
             modelBuilder.Configurations.Add(new CourseMap());
+            modelBuilder.Conventions.Remove<ManyToManyCascadeDeleteConvention>();
+            modelBuilder.Conventions.Remove<OneToManyCascadeDeleteConvention>();
             base.OnModelCreating(modelBuilder);
         }
     }
 
-    public class AulaAtivaDataContextInitializer : DropCreateDatabaseIfModelChanges<AulaAtivaDataContext>
+    public class AulaAtivaDataContextInitializer : DropCreateDatabaseAlways<AulaAtivaDataContext>
     {
         protected override void Seed(AulaAtivaDataContext context)
         {
+            context.Professors.Add(new Professor { Id = 1, Name = "Eduardo Melo" });
+            context.Courses.Add(new Course { Id = 1, Name = "Sistemas de Informação" });
+
+            context.SaveChanges();
+
+            context.Classes.Add(new Class { Id = 1, ProfessorId = 1, Name = "Análise, Projeto e Implementação de Sistemas 1" });
+            context.Classes.Add(new Class { Id = 1, ProfessorId = 1, Name = "Programação Orientada a Objetos" });
+            context.Classes.Add(new Class { Id = 1, ProfessorId = 1, Name = "Computação Gráfica" });
 
             context.SaveChanges();
             base.Seed(context);

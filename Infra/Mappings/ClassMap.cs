@@ -7,7 +7,7 @@ namespace Infra.Mappings
     {
         public ClassMap()
         {
-            ToTable("Alternatives");
+            ToTable("Classes");
             HasKey(x => x.Id);
         }
     }

@@ -12,3 +12,17 @@ C:\Users\davi_\source\repos\aulaativa-api\Infra\obj\Debug\Infra.csproj.CoreCompi
 C:\Users\davi_\source\repos\aulaativa-api\Infra\obj\Debug\Infra.csproj.CopyComplete
 C:\Users\davi_\source\repos\aulaativa-api\Infra\obj\Debug\Infra.dll
 C:\Users\davi_\source\repos\aulaativa-api\Infra\obj\Debug\Infra.pdb
+C:\Users\davi_\Documents\TCC\App\aulaativa-api\Infra\bin\Debug\Infra.dll.config
+C:\Users\davi_\Documents\TCC\App\aulaativa-api\Infra\bin\Debug\Infra.dll
+C:\Users\davi_\Documents\TCC\App\aulaativa-api\Infra\bin\Debug\Infra.pdb
+C:\Users\davi_\Documents\TCC\App\aulaativa-api\Infra\bin\Debug\Domain.dll
+C:\Users\davi_\Documents\TCC\App\aulaativa-api\Infra\bin\Debug\EntityFramework.dll
+C:\Users\davi_\Documents\TCC\App\aulaativa-api\Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\davi_\Documents\TCC\App\aulaativa-api\Infra\bin\Debug\Domain.pdb
+C:\Users\davi_\Documents\TCC\App\aulaativa-api\Infra\bin\Debug\EntityFramework.xml
+C:\Users\davi_\Documents\TCC\App\aulaativa-api\Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\davi_\Documents\TCC\App\aulaativa-api\Infra\obj\Debug\Infra.csprojAssemblyReference.cache
+C:\Users\davi_\Documents\TCC\App\aulaativa-api\Infra\obj\Debug\Infra.csproj.CoreCompileInputs.cache
+C:\Users\davi_\Documents\TCC\App\aulaativa-api\Infra\obj\Debug\Infra.csproj.CopyComplete
+C:\Users\davi_\Documents\TCC\App\aulaativa-api\Infra\obj\Debug\Infra.dll
+C:\Users\davi_\Documents\TCC\App\aulaativa-api\Infra\obj\Debug\Infra.pdb
